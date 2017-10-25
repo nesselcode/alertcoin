@@ -1,0 +1,13 @@
+.settings
+.classpath
+.springbeans
+.project
+.idea
+.idea/
+*.iml
+*.log
+target/
+generated-resources/
+*.tern-project
+out/
+springTest.sh

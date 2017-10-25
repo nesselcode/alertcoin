@@ -1,0 +1,1 @@
+insert into adresse (ville,latitude, longitude) values ('villeuraben',45.763720, 4.873666),('villeurbanne',45.763731, 4.871780),('villefranche',45.738499, 4.768483)
